@@ -1,5 +1,5 @@
 # MNIST [WIP]
-Using tensorflow, I'm attacking to Kaggle leaderboard!
+Using tensorflow, I'm attacking Kaggle leaderboard!
 
 ## Dataset
 MNIST - Modified National Institute of Standards and Technology database.
@@ -8,7 +8,7 @@ Handwriting numbers dataset for Machine Learning.
 
 ## What I did
 I learned some basics of Tensorflow at [this site](https://www.tensorflow.org/tutorials/quickstart/beginner)
-Then I applied what I learned to kaggle competition.
+Then I applied what I learned to Kaggle competition.
 
 
 ## What to improve
